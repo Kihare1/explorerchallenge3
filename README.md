@@ -6,8 +6,8 @@ Third challenge of a web programming course!
 - But generally to fix this broken code I just moved some stuff around, aligned some other texts and that's pretty much it, I also had the Figma project to guide me on my journey.
 
 - How it's supposed to look like (Figma Project)
-![figma project](https://imgur.com/a/kchHUIY)
+![figma project](https://i.imgur.com/Xrr0kQo.png)
 - What the broken code was showing
-![broken code](https://imgur.com/a/sokHaBx)
+![broken code](https://i.imgur.com/Ob8QrOA.png)
 - How I made my own
-![mine](https://imgur.com/a/ZBggHSt)
+![mine](https://i.imgur.com/COehJoI.png)
